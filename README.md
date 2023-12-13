@@ -26,7 +26,7 @@
 <br><h1>Инструкция</h1>
 <br>Шаг 1. Клонировать репозиторий себе на компьютер
 <br>Введите команду:
-<br><code>git clone https://github.com/Hovo-93/TelegramBot.Character.ai.git</code>
+<br><code>git clone https://github.com/harconstruct/character_ai_bot </code>
 <br>Шаг 2. Установить все зависимости
 <code>   pip install -r requirements.txt   </code>
 <br>Шаг 3. Создать в клонированной директории файл .env
